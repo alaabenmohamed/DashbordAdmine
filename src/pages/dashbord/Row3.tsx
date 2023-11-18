@@ -1,7 +1,7 @@
 import { Box, Paper, Stack, Typography, useTheme } from "@mui/material";
 import Pie from "../pieChart/Pie";
 import Bar from "../barChart/Bar";
-import Geo from "../geography/geo";
+import Geo from "../geography/Geo";
 
 function Row3() {
     const theme = useTheme();
