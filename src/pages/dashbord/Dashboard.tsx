@@ -15,6 +15,7 @@ function Dashboard() {
         justifyContent={"space-between"}
         alignItems={"center"}
       >
+        <h1>test vs code en ligne</h1>
         <Header
           isDashboard={true}
           title={"DASHBOARD"}
